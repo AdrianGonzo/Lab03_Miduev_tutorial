@@ -1,1 +1,1 @@
-[![Lo que queramos](https://github.com/midudev/midudev-aprender-tdd/actions/workflows/node.js.yml/badge.svg)](https://github.com/midudev/midudev-aprender-tdd/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/AdrianGonzo/Lab03_Miduev_tutorial/actions/workflows/node.js.yml/badge.svg)](https://github.com/AdrianGonzo/Lab03_Miduev_tutorial/actions/workflows/node.js.yml)
